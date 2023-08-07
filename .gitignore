@@ -1,0 +1,10 @@
+/*config*
+/logs
+/mods
+/resourcepacks
+/patchouli*
+/user*
+/options.txt
+
+/saves/world/*
+!/saves/world/datapacks
