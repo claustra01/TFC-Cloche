@@ -1,0 +1,23 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "tfc:seeds/barley"
+  },
+  "render": {
+    "type": "crop",
+    "block": "tfc:crop/barley"
+  },
+  "results": [
+    {
+      "count": 2,
+      "item": "tfc:food/barley"
+    },
+    {
+      "item": "tfc:seeds/barley"
+    }
+  ],
+  "soil": {
+    "tag": "tfc:dirt"
+  },
+  "time": 2400
+}
