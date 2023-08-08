@@ -1,0 +1,23 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "tfc:seeds/rye"
+  },
+  "render": {
+    "type": "crop",
+    "block": "tfc:crop/rye"
+  },
+  "results": [
+    {
+      "count": 2,
+      "item": "tfc:food/rye"
+    },
+    {
+      "item": "tfc:seeds/rye"
+    }
+  ],
+  "soil": {
+    "tag": "tfc:dirt"
+  },
+  "time": 2400
+}

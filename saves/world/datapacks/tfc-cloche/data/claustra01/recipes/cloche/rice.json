@@ -1,0 +1,23 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "tfc:seeds/rice"
+  },
+  "render": {
+    "type": "crop",
+    "block": "tfc:crop/rice"
+  },
+  "results": [
+    {
+      "count": 2,
+      "item": "tfc:food/rice"
+    },
+    {
+      "item": "tfc:seeds/rice"
+    }
+  ],
+  "soil": {
+    "tag": "tfc:dirt"
+  },
+  "time": 2400
+}

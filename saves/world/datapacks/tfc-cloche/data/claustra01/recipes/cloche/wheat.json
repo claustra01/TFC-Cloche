@@ -1,0 +1,23 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "tfc:seeds/wheat"
+  },
+  "render": {
+    "type": "crop",
+    "block": "tfc:crop/wheat"
+  },
+  "results": [
+    {
+      "count": 2,
+      "item": "tfc:food/wheat"
+    },
+    {
+      "item": "tfc:seeds/wheat"
+    }
+  ],
+  "soil": {
+    "tag": "tfc:dirt"
+  },
+  "time": 2400
+}

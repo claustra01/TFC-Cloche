@@ -1,0 +1,23 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "tfc:seeds/oat"
+  },
+  "render": {
+    "type": "crop",
+    "block": "tfc:crop/oat"
+  },
+  "results": [
+    {
+      "count": 2,
+      "item": "tfc:food/oat"
+    },
+    {
+      "item": "tfc:seeds/oat"
+    }
+  ],
+  "soil": {
+    "tag": "tfc:dirt"
+  },
+  "time": 2400
+}

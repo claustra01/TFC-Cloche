@@ -1,0 +1,23 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "tfc:seeds/maize"
+  },
+  "render": {
+    "type": "crop",
+    "block": "tfc:crop/maize"
+  },
+  "results": [
+    {
+      "count": 2,
+      "item": "tfc:food/maize"
+    },
+    {
+      "item": "tfc:seeds/maize"
+    }
+  ],
+  "soil": {
+    "tag": "tfc:dirt"
+  },
+  "time": 2400
+}
