@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "tfc:seeds/papyrus"
+  },
+  "render": {
+    "type": "crop",
+    "block": "tfc:crop/papyrus"
+  },
+  "results": [
+    {
+      "count": 2,
+      "item": "tfc:papyrus"
+    }
+  ],
+  "soil": {
+    "tag": "tfc:dirt"
+  },
+  "time": 2400
+}

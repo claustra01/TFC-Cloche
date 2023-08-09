@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "tfc:seeds/melon"
+  },
+  "render": {
+    "type": "crop",
+    "block": "tfc:crop/melon"
+  },
+  "results": [
+    {
+      "count": 2,
+      "item": "tfc:melon"
+    }
+  ],
+  "soil": {
+    "tag": "tfc:dirt"
+  },
+  "time": 2400
+}

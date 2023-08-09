@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "tfc:seeds/jute"
+  },
+  "render": {
+    "type": "crop",
+    "block": "tfc:crop/jute"
+  },
+  "results": [
+    {
+      "count": 2,
+      "item": "tfc:jute"
+    }
+  ],
+  "soil": {
+    "tag": "tfc:dirt"
+  },
+  "time": 2400
+}

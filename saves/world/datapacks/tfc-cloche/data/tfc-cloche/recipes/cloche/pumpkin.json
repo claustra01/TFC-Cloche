@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "tfc:seeds/pumpkin"
+  },
+  "render": {
+    "type": "crop",
+    "block": "tfc:crop/pumpkin"
+  },
+  "results": [
+    {
+      "count": 2,
+      "item": "tfc:pumpkin"
+    }
+  ],
+  "soil": {
+    "tag": "tfc:dirt"
+  },
+  "time": 2400
+}
