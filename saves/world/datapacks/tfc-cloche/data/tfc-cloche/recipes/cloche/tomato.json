@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "tfc:seeds/tomato"
+  },
+  "render": {
+    "type": "crop",
+    "block": "tfc:crop/tomato"
+  },
+  "results": [
+    {
+      "count": 2,
+      "item": "tfc:food/tomato"
+    }
+  ],
+  "soil": {
+    "tag": "tfc:dirt"
+  },
+  "time": 2400
+}

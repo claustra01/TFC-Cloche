@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "tfc:seeds/sugarcane"
+  },
+  "render": {
+    "type": "crop",
+    "block": "tfc:crop/sugarcane"
+  },
+  "results": [
+    {
+      "count": 2,
+      "item": "tfc:food/sugarcane"
+    }
+  ],
+  "soil": {
+    "tag": "tfc:dirt"
+  },
+  "time": 2400
+}

@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "tfc:seeds/onion"
+  },
+  "render": {
+    "type": "crop",
+    "block": "tfc:crop/onion"
+  },
+  "results": [
+    {
+      "count": 2,
+      "item": "tfc:food/onion"
+    }
+  ],
+  "soil": {
+    "tag": "tfc:dirt"
+  },
+  "time": 2400
+}

@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "tfc:seeds/soybean"
+  },
+  "render": {
+    "type": "crop",
+    "block": "tfc:crop/soybean"
+  },
+  "results": [
+    {
+      "count": 2,
+      "item": "tfc:food/soybean"
+    }
+  ],
+  "soil": {
+    "tag": "tfc:dirt"
+  },
+  "time": 2400
+}

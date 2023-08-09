@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "tfc:seeds/squash"
+  },
+  "render": {
+    "type": "crop",
+    "block": "tfc:crop/squash"
+  },
+  "results": [
+    {
+      "count": 2,
+      "item": "tfc:food/squash"
+    }
+  ],
+  "soil": {
+    "tag": "tfc:dirt"
+  },
+  "time": 2400
+}

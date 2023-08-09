@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "tfc:seeds/cabbage"
+  },
+  "render": {
+    "type": "crop",
+    "block": "tfc:crop/cabbage"
+  },
+  "results": [
+    {
+      "count": 2,
+      "item": "tfc:food/cabbage"
+    }
+  ],
+  "soil": {
+    "tag": "tfc:dirt"
+  },
+  "time": 2400
+}

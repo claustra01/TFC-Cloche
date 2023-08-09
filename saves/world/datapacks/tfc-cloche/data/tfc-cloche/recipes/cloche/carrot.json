@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "tfc:seeds/carrot"
+  },
+  "render": {
+    "type": "crop",
+    "block": "tfc:crop/carrot"
+  },
+  "results": [
+    {
+      "count": 2,
+      "item": "tfc:food/carrot"
+    }
+  ],
+  "soil": {
+    "tag": "tfc:dirt"
+  },
+  "time": 2400
+}

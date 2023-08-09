@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "tfc:seeds/garlic"
+  },
+  "render": {
+    "type": "crop",
+    "block": "tfc:crop/garlic"
+  },
+  "results": [
+    {
+      "count": 2,
+      "item": "tfc:food/garlic"
+    }
+  ],
+  "soil": {
+    "tag": "tfc:dirt"
+  },
+  "time": 2400
+}

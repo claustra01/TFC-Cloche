@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "tfc:seeds/green_bean"
+  },
+  "render": {
+    "type": "crop",
+    "block": "tfc:crop/green_bean"
+  },
+  "results": [
+    {
+      "count": 2,
+      "item": "tfc:food/green_bean"
+    }
+  ],
+  "soil": {
+    "tag": "tfc:dirt"
+  },
+  "time": 2400
+}
